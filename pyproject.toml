@@ -1,0 +1,9 @@
+[project]
+name = "tsne-numpy"
+version = "0.1.0"
+description = "t-SNE in NumPy with hand-written gradients and a perplexity binary search"
+requires-python = ">=3.9"
+dependencies = ["numpy", "matplotlib", "scikit-learn"]
+
+[project.optional-dependencies]
+test = ["pytest"]
