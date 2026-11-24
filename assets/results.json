@@ -1,0 +1,11 @@
+{
+  "n": 1797,
+  "perplexity": 30.0,
+  "iters": 500,
+  "kl_final": 1.1893,
+  "kl_iter100": 1.4893,
+  "knn_overlap_tsne": 0.5501,
+  "knn_overlap_pca2": 0.121,
+  "trustworthiness_tsne": 0.9822,
+  "trustworthiness_pca2": 0.8163
+}
